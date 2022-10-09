@@ -2,7 +2,7 @@
 
 ### A Developer with love for coding.
 
-`Developing is an art for me, an art, that can be used to create incredible things.`
+`Developing is an art for me, one that can be used to create incredible things.`
 
 I like to try out various techniques.
 
