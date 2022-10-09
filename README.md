@@ -1,7 +1,5 @@
 ## Hi, I'm Alex
 
-### A Developer with love for coding.
-
 `Developing is an art for me, one that can be used to create incredible things.`
 
 I like to try out various techniques but currently I'm focussing on Vue3 and Flutter for Frontends and Appwrite, Rust with Rocket, and .NET for Backends.
