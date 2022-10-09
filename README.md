@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Alex
+
+### A Developer with love for coding.
+
+`Developing is an art for me, an art, that can be used to create incredible things.`
+
+I like to try out various techniques.
 
 <!--
 **Traijan1/Traijan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
