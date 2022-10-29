@@ -3,7 +3,8 @@
 `Developing is an art for me, one that can be used to create incredible things.`
 
 I like to try out various techniques but currently I'm focussing on Vue3 and Flutter for Frontends and Appwrite, Rust with Rocket, and .NET for Backends.  
-I am also learning Japanese.  
+<br />
+I am also learning Japanese and working on [Vocab](https://github.com/Traijan1/vocab) alongside.  
 
 <!--
 **Traijan1/Traijan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
