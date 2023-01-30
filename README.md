@@ -4,7 +4,7 @@
 
 I like to try out various techniques but currently I'm focussing on Vue3 and Flutter for Frontends and Appwrite, Rust with Rocket, and .NET for Backends.  
 <br />
-I am also learning Japanese and working on [Vocab](https://github.com/Traijan1/vocab) alongside.  
+I am also learning Japanese.  
 
 <!--
 **Traijan1/Traijan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
